@@ -1,0 +1,10 @@
+{
+    "api_key": "AIzaSyByAIEcq8W-IjZHGMG9Jxg5BY9o5nmcTrw",
+    "model_name": "gemini-2.0-flash-exp",
+    "temperature": 1.25,
+    "top_p": 0.95,
+    "top_k": 40,
+    "max_output_tokens": 8192,
+    "response_mime_type": "text/plain",
+    "max_history": 10
+  }
